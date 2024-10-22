@@ -1,17 +1,5 @@
 ## Ola eu sou Lucas Krötz, Desenvolvedor Full Stack!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lucaskrotz&show_icons=true&theme=blue"
-    media="(prefers-color-scheme: blue)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lucaskrotz&show_icons=true"
-    media="(prefers-color-scheme: blue), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucaskrotz&show_icons=true" />
-</picture>
-
 <div style="display: inline-block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
